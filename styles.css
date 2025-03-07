@@ -1,6 +1,7 @@
 h1 {
     background-color: rgb(256,128,0);
-    padding: 25px;
+    width: 100%;
+    padding: 25px 0;
     align-items: center;
     text-align: center;
 }
