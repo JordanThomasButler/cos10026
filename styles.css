@@ -1,14 +1,16 @@
 h1 {
-    background-color: rgb(256,128,0);
+    background-color: #3a5a40;
     width: 100%;
     padding: 25px 0;
     align-items: center;
     text-align: center;
+    color: white;
+    margin: 0;
 }
 
 .divider {
     width: 100%;
-    background-color: black;
+    background-color: rgb(128,128,128);
     height: 2px;
 }
 
@@ -24,4 +26,15 @@ h1 {
 
 p {
     padding: 5px;
+    padding-top: 10px;
+}
+
+body {
+    background-color: #a3b18a;
+    margin: 0;
+}
+
+h2 {
+    margin-bottom: 3px;
+    margin-top: 2px;
 }
